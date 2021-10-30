@@ -27,7 +27,7 @@ acall delay
 sjmp start
 
 delay :
-mov r0,#5
+mov r0,#3
 
 delay1:
 mov r1,#255
